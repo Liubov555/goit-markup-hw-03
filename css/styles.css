@@ -36,6 +36,7 @@ img {
 .header-page {
     background: #FFFFFF;
     height: 80px;
+    border-bottom: 1px solid #ECECEC;
 }
 
 .nav {
